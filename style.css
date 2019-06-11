@@ -30,6 +30,7 @@ btn:focus {
   box-shadow: 0 0 15px black;
   padding: 10px;
   background: white;
+  margin: 0 auto;
 }
 
 h1 {
@@ -37,6 +38,10 @@ h1 {
   text-align: center;
   font-size: 60px;
   padding: 0px;
+}
+
+img{
+  margin: 0 auto;
 }
 
 .about {
@@ -78,7 +83,7 @@ h1 {
 .portfolio-img {
   height: 300px;
   box-shadow: 0 0 20px black;
-  margin-bottom: 20px;
+  margin: 0 auto;
   transition: .3s;
 }
 
